@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    class="sc-beyTiQ cKVgyg"
+  >
+    <div
+      class="sc-guDMob evfCrZ"
+      id="sidebar"
+    >
+      <h1
+        class="sc-hLQTFJ YRiIl"
+      >
+        Gaming Kingdom
+      </h1>
+      <div
+        class="sc-eDLKEg bvekgh"
+      >
+        <input
+          aria-label="Search contacts"
+          class="sc-gLLuHO jMsPbm"
+          id="q"
+          name="q"
+          placeholder="Search"
+          type="search"
+        />
+        <button
+          class="sc-iBdoyZ kDRhHD"
+        >
+          Go
+        </button>
+      </div>
+      <div
+        class="sc-jTQDJr jYBzJp"
+      >
+        <button
+          class="sc-fsYfxw eKksly"
+        >
+          Home
+        </button>
+      </div>
+    </div>
+    <div
+      class="sc-dmyDmy lcsCEu"
+    />
+  </div>
+</div>
+`;
